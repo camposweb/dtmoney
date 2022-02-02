@@ -1,4 +1,4 @@
-# ![Logo dtmoney](./public/logo-dtmoney.svg)
+# <p align="center">![Logo dtmoney](./public/logo-dtmoney.svg)</p>
 
 ![print dtmoney](./public/print.png)
 
